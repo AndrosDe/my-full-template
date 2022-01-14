@@ -2,13 +2,16 @@
 
 ## Welcome!
 
+### [My First Template Website](https://androsde.github.io/my-full-template/)
+
 <hr>
 
 This is the first project that I've created in the Gitpod editor. This project is a display of the technologies that will be used throughout Full-Stack Developer-Program at [Code Institute](https://codeinstitute.net) in a small little dashboard.
 
 The purpose of this is that we get an understanding of how to find our around the Gitpod editor.
 
-I added an additional website (portfolio-forbitten.html) as an extra challange to go beyond the steps in the course and for fun and giggles
+I added an additional website (portfolio-forbitten.html) as an extra challange to go beyond the steps in the course and for fun and giggles.
+<br>
 That way I was able to do more trouble shooting, when some styles, links and the navigation bar failed to work at first.
 Also it forced me to do a lot more cleaning up with "git rm".
 
